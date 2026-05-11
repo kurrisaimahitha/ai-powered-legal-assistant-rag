@@ -46,8 +46,4 @@ python app.py ask \
   --model google/gemma-2b-it
 ```
 
-## Resume-ready features
-- Semantic retrieval + FAISS vector database
-- Context-aware generation via RAG
-- Pipeline supports LoRA fine-tuning and quantization (hooks provided)
 
