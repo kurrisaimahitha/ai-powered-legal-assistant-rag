@@ -27,8 +27,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Create `.env` (optional):
-- `HF_TOKEN=...`
+
 
 ## Ingest documents
 Put your legal docs into `data/legal_docs/` (one file per case/document).
